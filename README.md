@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C and C++**
 
-- 📫 How to reach me **https://www.linkedin.com/in/rishabh-jain-a56398230/**
+- 📫 How to reach me **<a href = "https://www.linkedin.com/in/rishabh-jain-a56398230/" > Rishabh Jain</a>**
 
 - ⚡ Fun fact **If you are looking for a trader at day and programmer at night you are at a better place**
 
