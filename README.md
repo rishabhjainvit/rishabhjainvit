@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-👋 Hi, I’m @Rihsbah Jain.<br>👀 I’m interested in Programming and sometime making money.<br>🌱 I’m currently learning DSA and getting into JAVA.<br>🤔 Looking for some help in Data Structure And Algortihms.<br>⚡ Fun fact : if you are looking for a Trader at day and a Programmer at night you are at a better place;)<br>💞️ Reachout to me for any project idea and i would love to collaborate :)<br>
+👋 Hi, I’m @Rishabh Jain.<br>👀 I’m interested in Programming and sometime making money.<br>🌱 I’m currently learning DSA and getting into JAVA.<br>🤔 Looking for some help in Data Structure And Algortihms.<br>⚡ Fun fact : if you are looking for a Trader at day and a Programmer at night you are at a better place;)<br>💞️ Reachout to me for any project idea and i would love to collaborate :)<br>
 
 
 ## 🌐 Socials:
@@ -12,11 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=rishabhjainvit&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhjainvit&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjainvit&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikevip&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rishabhjainvit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
